@@ -1,0 +1,19 @@
+.signupWrapper{
+    display: flex;
+    justify-content: center;
+}
+
+.cardWrapper{
+    width: 30vw;
+    margin-top: 4.5%;
+}
+
+
+
+.insta-logo{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 80px;
+    margin-top: 2%;
+}

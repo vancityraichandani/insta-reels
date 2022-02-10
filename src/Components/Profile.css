@@ -1,0 +1,42 @@
+.spacer{
+    min-height: 12vh;
+
+}
+
+.container{
+    min-height: 8vh;
+    margin: 0 18%;
+}
+
+.upper-part{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.profile-img{
+    flex-basis: 50%;
+}
+
+.info{
+    flex-basis: 40%;
+}
+
+.profile-img img{
+    height: 7rem;
+    width: 7rem;
+    border-radius: 100%;
+    margin-left: 10%;
+}
+
+.profile-video-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: 6.4rem;
+}
+
+.profile-videos video{
+    height: 20rem;
+    padding: 1rem;
+}
